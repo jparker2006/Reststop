@@ -1,0 +1,7 @@
+body { background-color: #ffd; margin: 0; padding: 0; }
+button, a { cursor: pointer; }
+* { box-sizing: border-box; font-family: "Georgia"; }
+textarea { resize: none;  width: 300px; height: 200px; }
+#main { position: absolute; left: 50%; transform: translate(-50%); }
+.centered { margin-left: auto; margin-right: auto; }
+.headerFrame { width: 100%; height: auto; border: 1px dotted #68693F; text-align: center; float: left; padding: 13px; margin-top: 15px; }
